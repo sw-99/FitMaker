@@ -1,0 +1,5 @@
+rootProject.name = 'FitMaker'
+
+// 하위 프로젝트 포함
+include 'fitmaker-backend'
+//include 'fitmaker-frontend'
