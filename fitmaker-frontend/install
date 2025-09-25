@@ -1,0 +1,9 @@
+npx create-next-app@latest fitmaker-frontend --typescript
+pnpm install
+pnpm add @tanstack/react-query
+pnpm add -D @tanstack/react-query-devtools
+pnpm add zod
+pnpm add react-hook-form @hookform/resolvers
+pnpm add zustand
+pnpm add -D eslint @eslint/eslintrc eslint-plugin-import eslint-plugin-react-hooks eslint-config-prettier
+pnpm add clsx tailwind-merge
