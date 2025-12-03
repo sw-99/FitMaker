@@ -7,3 +7,4 @@ pnpm add react-hook-form @hookform/resolvers
 pnpm add zustand
 pnpm add -D eslint @eslint/eslintrc eslint-plugin-import eslint-plugin-react-hooks eslint-config-prettier
 pnpm add clsx tailwind-merge
+pnpm install class-variance-authority @radix-ui/react-slot

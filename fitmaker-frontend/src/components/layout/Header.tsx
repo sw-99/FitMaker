@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import { cn } from "@/lib/cn"; // (없으면 fallback 유틸 사용)
 
 const NAV_ITEMS = [
-    { href: "/records", label: "기록" },
+    { href: "/records/body", label: "기록" },
     { href: "/chat", label: "채팅" },
     { href: "/feedback", label: "피드백" },
     { href: "/dashboard", label: "대시보드" },
