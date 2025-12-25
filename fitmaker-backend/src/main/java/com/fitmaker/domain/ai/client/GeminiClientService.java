@@ -1,4 +1,4 @@
-package com.fitmaker.service;
+package com.fitmaker.domain.ai.client;
 
 import com.google.genai.Client;
 import com.google.genai.types.GenerateContentResponse;
@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 @RequiredArgsConstructor
-public class GeminiService {
+public class GeminiClientService {
 
 
     public String generateText(String prompt) {

@@ -1,4 +1,4 @@
-package com.fitmaker.config;
+package com.fitmaker.global.config;
 // WebConfig.java
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

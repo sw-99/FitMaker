@@ -1,6 +1,6 @@
-package com.fitmaker.controller;
+package com.fitmaker.domain.body.controller;
 
-import com.fitmaker.dto.UserDto;
+import com.fitmaker.domain.body.dto.UserDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
