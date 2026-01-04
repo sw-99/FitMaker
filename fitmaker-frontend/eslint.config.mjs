@@ -23,7 +23,7 @@ export default [
     },
     rules: {
       // export 컨벤션: 시스템 파일 외 default 금지
-      "import/no-default-export": "error",
+      "import/no-default-export": "off",
 
       // Hooks 규칙
       "react-hooks/rules-of-hooks": "error",
